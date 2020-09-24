@@ -1,0 +1,12 @@
+HSES - High School Enrolment System
+Developer: Vincent J. Jamero
+	   bob8works@yahoo.com
+
+
+Please download lvButton.zip from www.bob8works.cjb.net/lvButton.zip
+
+Thank you for downloading my code.
+
+
+
+Mabuhay ang Pinoy Developers!!!
